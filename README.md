@@ -9,6 +9,8 @@ https://github.com/ste-matt/secureX-cyber-vision-tiles-demo-V1
 
 The tile needs IP or domain of Cyber Vision System ,the Cyber Vision  API token and a URL to connect to the middleware serverless code.
 
+### **The code will not work without the serverless code available above!**
+
 ##T**HIS IS DEMO CODE - NO WARRANTY OR SUPPORT IS IMPLIED OR PROVIDED**
 
 *Steve Matthews stmatthe@cisco.com - Feb 23*

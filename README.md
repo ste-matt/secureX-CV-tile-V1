@@ -1,2 +1,13 @@
-# secureX-CV-tile-V1
-cyber-vision-integration-tile-V1
+# secureX-Cyber Vision Demo Integration Tile
+This tile can be imported into the module maker and then deployed on secureX it requires you have an existing secureX license via another
+Cisco Security Platform to access secureX As of Jan '23 Cyber Vision does not have its own license as a standalone secureX module.
+
+Module Maker is here : https://ciscosecurity.github.io/tr-05-module-maker/
+
+The associated serverless code is here:
+https://github.com/ste-matt/secureX-cyber-vision-tiles-demo-V1
+
+The tile needs IP or domain of Cyber Vision System and the API token to connect to the middleware
+
+##THIS IS DEMO CODE - NO WARRANTY OR SUPPORT IS IMPLIED BY ITS PRESENCE ON GITHUB
+

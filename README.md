@@ -13,5 +13,7 @@ The tile needs IP or domain of Cyber Vision System ,the Cyber Vision  API token 
 
 ##T**HIS IS DEMO CODE - NO WARRANTY OR SUPPORT IS IMPLIED OR PROVIDED**
 
+Tested with Cyber Vision 4.1.x
+
 *Steve Matthews stmatthe@cisco.com - Feb 23*
 

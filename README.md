@@ -1,6 +1,8 @@
 ## secureX-Cyber Vision Demo Integration Tile
 This tile can be imported into the module maker and then deployed on secureX, it requires you have an existing secureX license via another
-Cisco Security Platform to access secureX As of Jan '23 Cyber Vision does not have its own license as a standalone secureX module.
+Cisco Security Platform to access secureX. 
+
+As of Jan '23 Cyber Vision does not have its own license as a standalone secureX module.
 
 Module Maker is here : https://ciscosecurity.github.io/tr-05-module-maker/
 

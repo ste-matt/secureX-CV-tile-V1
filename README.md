@@ -17,5 +17,10 @@ The tile needs IP or domain of Cyber Vision System ,the Cyber Vision  API token 
 
 Tested with Cyber Vision 4.1.x
 
+
+## License
+
+This project is licensed under the Cisco Sample Code License 1.1 - see the [LICENSE](LICENSE) file for details
+
 *Steve Matthews stmatthe@cisco.com - Feb 23*
 
